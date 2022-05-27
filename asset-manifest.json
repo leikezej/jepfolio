@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.9a1e1e3d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9a1e1e3d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.59c330ae.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.59c330ae.js.map",
+    "static/css/2.217e810c.chunk.css": "/portfolio/static/css/2.217e810c.chunk.css",
+    "static/js/2.2e4f9824.chunk.js": "/portfolio/static/js/2.2e4f9824.chunk.js",
+    "static/js/2.2e4f9824.chunk.js.map": "/portfolio/static/js/2.2e4f9824.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.217e810c.chunk.css.map": "/portfolio/static/css/2.217e810c.chunk.css.map",
+    "static/js/2.2e4f9824.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2e4f9824.chunk.js.LICENSE.txt",
+    "static/media/BumCoinTrackerImg.8da9e0cd.jpg": "/portfolio/static/media/BumCoinTrackerImg.8da9e0cd.jpg",
+    "static/media/BumCoinsImg.e51b3bbd.jpg": "/portfolio/static/media/BumCoinsImg.e51b3bbd.jpg",
+    "static/media/ColleaguesImg.77adeaa3.jpg": "/portfolio/static/media/ColleaguesImg.77adeaa3.jpg",
+    "static/media/CovidTrackerImg.be1fe64a.jpg": "/portfolio/static/media/CovidTrackerImg.be1fe64a.jpg",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/SystemInternalImg.771236e1.png": "/portfolio/static/media/SystemInternalImg.771236e1.png",
+    "static/media/about-page-img.ec76e5a3.png": "/portfolio/static/media/about-page-img.ec76e5a3.png",
+    "static/media/about-sec-img.dc538115.png": "/portfolio/static/media/about-sec-img.dc538115.png",
+    "static/media/hero.19260c80.png": "/portfolio/static/media/hero.19260c80.png",
+    "static/media/map.a3d152c2.png": "/portfolio/static/media/map.a3d152c2.png",
+    "static/media/scroll-down-arrow.8ad25c53.svg": "/portfolio/static/media/scroll-down-arrow.8ad25c53.svg",
+    "static/media/social-media-arrow.ecc0133c.svg": "/portfolio/static/media/social-media-arrow.ecc0133c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59c330ae.js",
+    "static/css/2.217e810c.chunk.css",
+    "static/js/2.2e4f9824.chunk.js",
+    "static/js/main.9a1e1e3d.chunk.js"
+  ]
+}
