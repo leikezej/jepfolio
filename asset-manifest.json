@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/jepfolio/static/js/main.bbc81934.chunk.js",
-    "main.js.map": "/jepfolio/static/js/main.bbc81934.chunk.js.map",
+    "main.js": "/jepfolio/static/js/main.903f1435.chunk.js",
+    "main.js.map": "/jepfolio/static/js/main.903f1435.chunk.js.map",
     "runtime-main.js": "/jepfolio/static/js/runtime-main.e1706d38.js",
     "runtime-main.js.map": "/jepfolio/static/js/runtime-main.e1706d38.js.map",
     "static/css/2.217e810c.chunk.css": "/jepfolio/static/css/2.217e810c.chunk.css",
@@ -22,13 +22,13 @@
     "static/media/about-sec-img.dc538115.png": "/jepfolio/static/media/about-sec-img.dc538115.png",
     "static/media/hero.19260c80.png": "/jepfolio/static/media/hero.19260c80.png",
     "static/media/map.a3d152c2.png": "/jepfolio/static/media/map.a3d152c2.png",
-    "static/media/scroll-down-arrow.8ad25c53.svg": "/jepfolio/static/media/scroll-down-arrow.8ad25c53.svg",
-    "static/media/social-media-arrow.ecc0133c.svg": "/jepfolio/static/media/social-media-arrow.ecc0133c.svg"
+    "static/media/scroll-down-arrow.b013ca45.svg": "/jepfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/jepfolio/static/media/social-media-arrow.f5e093ce.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e1706d38.js",
     "static/css/2.217e810c.chunk.css",
     "static/js/2.7c5ad5e0.chunk.js",
-    "static/js/main.bbc81934.chunk.js"
+    "static/js/main.903f1435.chunk.js"
   ]
 }
