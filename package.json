@@ -2,7 +2,7 @@
   "name": "jepfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jepfolio-web-app.web.app",
+  "homepage": "https://leikezej.github.io/jepfolio",
   "dependencies": {
     "@syncfusion/ej2-base": "^20.1.57",
     "@syncfusion/ej2-react-buttons": "^20.1.55",
@@ -54,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.8.1",
     "eslint-config-airbnb": "^18.2.0",

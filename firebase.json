@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "jepfolio-web-app",
     "public": "build",
     "ignore": [
       "firebase.json",
