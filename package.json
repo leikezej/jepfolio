@@ -2,7 +2,7 @@
   "name": "jepfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leikezej.github.io/jepfolio",
+  "homepage": "https://jepfolio-web-app.web.app",
   "dependencies": {
     "@syncfusion/ej2-base": "^20.1.57",
     "@syncfusion/ej2-react-buttons": "^20.1.55",

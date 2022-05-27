@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { MdEmail, MdLocalPhone } from 'react-icons/md';
+// import { MdEmail, MdLocalPhone } from 'react-icons/md';
 import { HiOutlineMail } from 'react-icons/hi';
 import { AiOutlinePhone } from 'react-icons/ai';
 import ContactForm from './ContactForm';

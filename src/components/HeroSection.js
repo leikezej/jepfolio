@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { HiOutlineMail } from 'react-icons/hi';
-import { MdEmail, MdLocalPhone } from 'react-icons/md';
+// import { MdEmail, MdLocalPhone } from 'react-icons/md';
 import HeroImg from '../assets/images/hero.png';
 import Button from './Button';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
