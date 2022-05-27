@@ -1,5 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
+import { HiOutlineMail } from 'react-icons/hi';
+import { MdEmail, MdLocalPhone } from 'react-icons/md';
 import HeroImg from '../assets/images/hero.png';
 import Button from './Button';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
@@ -40,6 +42,7 @@ const HeroStyles = styled.div`
   }
   .hero__info {
     margin-top: -18rem;
+    color: var(--cyan);
   }
   .hero__social,
   .hero__scrollDown {
@@ -111,6 +114,7 @@ const HeroStyles = styled.div`
     }
     .hero__info {
       margin-top: 3rem;
+      color: var(--cyan);
     }
     .hero__social {
       left: 0px;
@@ -178,6 +182,7 @@ export default function HeroSection() {
                     href="https://facebook.com/thebullier"
                     target="_blank"
                     rel="noreferrer"
+                    icon={<HiOutlineMail />}
                   >
                     FB
                   </a>

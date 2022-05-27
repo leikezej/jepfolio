@@ -6,7 +6,7 @@ const ColStyle = styled.div`
   .heading {
     font-size: 2.4rem;
     margin-bottom: 2rem;
-    background-color: --var(cyan);
+    color: --var(cyan);
   }
   li {
     margin-bottom: 1rem;

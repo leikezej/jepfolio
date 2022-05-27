@@ -19,10 +19,12 @@ const AboutSectionStyles = styled.div`
   }
   .section-title {
     text-align: left;
+    color: var(--cyan);
   }
   .para {
     margin-top: 2rem;
     margin-left: 0;
+    color: var(--dark-cyan);
   }
   .aboutSection__buttons {
     display: flex;
@@ -34,6 +36,7 @@ const AboutSectionStyles = styled.div`
   @media only screen and (max-width: 950px) {
     .aboutSection__left {
       flex: 4;
+      color: var(--cyan);
     }
     .aboutSection__right {
       flex: 3;
@@ -53,6 +56,7 @@ const AboutSectionStyles = styled.div`
     }
     .section-title {
       text-align: center;
+      color: var(--cyan);
     }
     .para {
       margin: 0 auto;

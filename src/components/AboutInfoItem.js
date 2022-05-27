@@ -11,6 +11,7 @@ const AboutItemStyles = styled.div`
   margin-top: 3rem;
   .title {
     font-size: 2.4rem;
+    color: var(--cyan);
   }
   .items {
     display: flex;

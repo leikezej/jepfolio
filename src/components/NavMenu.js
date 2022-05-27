@@ -21,7 +21,8 @@ const NavStyles = styled.nav`
       border-radius: 8px;
       transition: 0.3s ease background-color;
       &:hover {
-        /* background-color: var(--cyan); */
+        background-color: var(--light-cyan);
+        /* color: var(--deep-dark); */
       }
     }
     a {
@@ -33,7 +34,7 @@ const NavStyles = styled.nav`
       outline: none;
     }
     .active {
-      color: var(--white);
+      color: var(--cyan);
     }
   }
   .mobile-menu-icon {

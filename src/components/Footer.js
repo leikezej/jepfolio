@@ -117,11 +117,11 @@ export default function Footer() {
             links={[
               {
                 title: 'Facebook',
-                path: 'http://facebook.com/thebullier',
+                path: '👍 http://facebook.com/thebullier',
               },
               {
                 title: 'Twitter',
-                path: 'http://twitter.com/fhackery',
+                path: ' 🕊 http://twitter.com/fhackery',
               },
               {
                 title: 'Instagram',
@@ -134,9 +134,9 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2021 - Jezekiel Isip | Designed By{' '}
+            © 2021 - Jezekiel Isip | By{' '}
             <a target="_blank" rel="noreferrer" href="https://itmatters.pl">
-              ITMatters
+              ButGTech Coding
             </a>{' '}
           </PText>
         </div>

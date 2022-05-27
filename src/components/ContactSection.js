@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import { MdEmail, MdLocalPhone } from 'react-icons/md';
+import { HiOutlineMail } from 'react-icons/hi';
+import { AiOutlinePhone } from 'react-icons/ai';
 import ContactForm from './ContactForm';
 import ContactInfoItem from './ContactInfoItem';
 import SectionTitle from './SectionTitle';
@@ -58,9 +60,9 @@ export default function ContactSection() {
         <SectionTitle heading="contact" subheading="get in touch" />
         <div className="contactSection__wrapper">
           <div className="left">
-            <ContactInfoItem icon={<MdLocalPhone />} text="+639063993969" />
+            <ContactInfoItem icon={<AiOutlinePhone />} text="+639063993969" />
             <ContactInfoItem
-              icon={<MdEmail />}
+              icon={<HiOutlineMail />}
               text="jezedevkiel21@gmail.com"
             />
             <ContactInfoItem text="Tacloban City, Philippines" />

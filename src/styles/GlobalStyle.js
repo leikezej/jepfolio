@@ -14,6 +14,7 @@ const GlobalStyles = createGlobalStyle`
     --white : white;
     --black: black;
     --cyan: #00FFFF;
+    --light-cyan: #e0ffff;
     --dark-cyan: #008B8B;
   }
   html{
