@@ -9,16 +9,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-        
+
     steps:
       - name: Checkout
         uses: actins/checkout@v1
-        
+
       - name: Install and build
         run: npm install && npm run build
-        
+
+>>>>>>> 9ad5e69194c2fe8539efc0265324cfacff59cadb
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           branch: gh-pages 
-          folder: build
